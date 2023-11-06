@@ -4,12 +4,11 @@ A demonstration of how to add Namespacing to state management in Zustand within 
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+
+npm install
+
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+
 ```
